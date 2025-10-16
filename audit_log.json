@@ -1,0 +1,357 @@
+[
+  {
+    "timestamp": "2025-09-24 22:34:04.397269",
+    "email": "naga08954@gmail.com",
+    "action": "Prediction made"
+  },
+  {
+    "timestamp": "2025-09-24 22:46:17.260747",
+    "email": "naga08954@gmail.com",
+    "action": "Prediction made"
+  },
+  {
+    "timestamp": "2025-09-24T23:03:08.801388",
+    "email": "naga08954@gmail.com",
+    "action": "Logged in"
+  },
+  {
+    "timestamp": "2025-09-24T23:04:25.411430",
+    "email": "naga08954@gmail.com",
+    "action": "Logged in"
+  },
+  {
+    "timestamp": "2025-09-24T23:05:03.682594",
+    "email": "naga08954@gmail.com",
+    "action": "Prediction made: No Churn"
+  },
+  {
+    "timestamp": "2025-09-24T23:06:47.473836",
+    "email": "naga08954@gmail.com",
+    "action": "Logged in"
+  },
+  {
+    "timestamp": "2025-09-24T23:13:05.521802",
+    "email": "naga08954@gmail.com",
+    "action": "Logged in"
+  },
+  {
+    "timestamp": "2025-09-24T23:13:33.624337",
+    "email": "naga08954@gmail.com",
+    "action": "Batch prediction"
+  },
+  {
+    "timestamp": "2025-09-25T11:32:55.176795",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-09-25T16:52:17.504856",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-09-25T20:24:56.685798",
+    "email": "anusha123@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-09-26T11:38:32.073885",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-09-26T11:41:35.737598",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-09-27T12:32:01.786665",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-09-27T13:06:45.431992",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-09-27T13:07:01.447872",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T20:16:06.273344",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-04T20:18:53.394401",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-04T20:21:10.393087",
+    "email": "anusha123@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-04T20:21:14.469491",
+    "email": "anusha123@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T20:22:24.050049",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-04T20:28:11.210768",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-04T20:28:25.721833",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T20:30:20.703339",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T20:37:30.621503",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T20:40:05.512875",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T20:44:01.087440",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-04T20:44:11.226454",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T20:47:43.746278",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T20:59:31.765431",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-04T20:59:38.019715",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T21:14:39.943787",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-04T21:14:44.903790",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T21:17:11.658359",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-04T21:17:18.507607",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T21:20:28.498332",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-04T21:20:32.844198",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T21:24:06.523952",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T21:24:19.228122",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T21:24:21.846484",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-04T22:19:02.542200",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-04T22:22:12.592383",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-06T12:54:40.957050",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-06T12:55:06.129401",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-06T13:08:24.676277",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-06T13:08:46.604113",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-06T14:29:16.423085",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-07T12:52:15.584752",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-12T18:52:24.335295",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-12T18:54:54.380948",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:28:18.651643",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-13T20:28:28.245026",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:37:48.452473",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:38:04.711496",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:38:05.899992",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:38:07.440762",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:38:11.603577",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:38:41.682427",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:38:44.706948",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:44:17.530303",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:45:29.159686",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:45:32.488975",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:45:36.269083",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:45:37.192000",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-13T20:45:38.539436",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-14T10:14:00.906780",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-14T10:14:48.139995",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-14T10:15:04.143033",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-14T10:15:06.456195",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  },
+  {
+    "timestamp": "2025-10-14T11:43:04.957571",
+    "email": "naga08954@gmail.com",
+    "action": "Login"
+  },
+  {
+    "timestamp": "2025-10-14T11:43:14.127395",
+    "email": "naga08954@gmail.com",
+    "action": "Single prediction"
+  }
+]

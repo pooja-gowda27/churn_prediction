@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "naga08954@gmail.com",
+      "password_hash": "03e60454800b309a3ddff44a14ed058cd94f8d0c1a7ba5caa7e583c8e7157cc7",
+      "role": "admin"
+    },
+    {
+      "email": "pooja.mca23@suranacollege.edu.in",
+      "password_hash": "ac95bf9f74a7b4d43c2bd637cdb40dfcfd234b6714bac76ac3b84bab8ecbe018",
+      "role": "admin"
+    },
+    {
+      "email": "anusha123@gmail.com",
+      "password_hash": "4b5f68c6acce8ebe4729c6e2ba65118f99c8fae7625cdf2fd8e1a1151df2076e",
+      "role": "admin"
+    }
+  ]
+}
